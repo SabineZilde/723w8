@@ -8,31 +8,16 @@ Bash is a [command processor](https://en.wikipedia.org/wiki/Command-line_interfa
 
 ### Files and Directories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Code
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Editing Options in BASH
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SabineZilde/723w8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Link to my web page
 
