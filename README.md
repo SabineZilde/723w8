@@ -2,9 +2,8 @@
 ## BASH! 
 ### Why BASH?
 
-You can use the [editor on GitHub](https://github.com/SabineZilde/723w8/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bash is a [command processor](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_interpreter) that typically runs in a [text window](https://en.wikipedia.org/wiki/Terminal_emulator) where the user types commands that cause actions. Bash can also read and execute commands from a file, called a [shell script](https://en.wikipedia.org/wiki/Shell_script).
+[Source](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 
 ### Files and Directories
 
@@ -34,6 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SabineZilde/723w8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Link to my web page
 
 https://sabinezilde.github.io/723w8/
