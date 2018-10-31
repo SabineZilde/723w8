@@ -5,20 +5,20 @@ Bash is a [command processor](https://en.wikipedia.org/wiki/Command-line_interfa
 [Source](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 ### Why BASH?
 
-
+Video in progress...
 
 ### Files and Directories
 
-
+Video in progress...
 
 ```markdown
-Code
+Code in progress...
 ```
 
 
 ### Editing Options in BASH
 
-
+Video in progress...
 
 ### Link to my web page
 
