@@ -5,12 +5,11 @@ Bash is a [command processor](https://en.wikipedia.org/wiki/Command-line_interfa
 [Source](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 ### Why BASH?
 
-![Work in progress..](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.rexmar.net%2Fuk%2Findex_htm_files%2FWORK%2520IN%2520PROGRESS.gif&f=1)
-Video in progress...
+![Work in progress..](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fweclipart.com%2Fgimg%2F1DE1D638836F0B6F%2Fanimated-working-on-it-sign.gif&f=1)
 
 ### Files and Directories
 
-Video in progress...
+![Work in progress..](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fweclipart.com%2Fgimg%2F1DE1D638836F0B6F%2Fanimated-working-on-it-sign.gif&f=1)
 
 ```markdown
 Code in progress...
@@ -19,7 +18,7 @@ Code in progress...
 
 ### Editing Options in BASH
 
-Video in progress...
+![Work in progress..](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fweclipart.com%2Fgimg%2F1DE1D638836F0B6F%2Fanimated-working-on-it-sign.gif&f=1)
 
 ### Link to my web page
 
