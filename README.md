@@ -5,6 +5,7 @@ Bash is a [command processor](https://en.wikipedia.org/wiki/Command-line_interfa
 [Source](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 ### Why BASH?
 
+![Work in progress..](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.rexmar.net%2Fuk%2Findex_htm_files%2FWORK%2520IN%2520PROGRESS.gif&f=1)
 Video in progress...
 
 ### Files and Directories
